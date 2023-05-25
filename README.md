@@ -5,12 +5,10 @@
   <h6>🖥️ Tech Stack 🖥️</h6>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahk03&layout=compact&theme=buefy">
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahk03&layout=compact&theme=buefy"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=chahk03&theme=buefy&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=chahk03&theme=buefy&show_icons=true"/>
 
 </div>
 
