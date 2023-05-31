@@ -2,13 +2,14 @@
 
   ![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=140&section=header&text=Hello,%20chacha!&fontSize=60)
 
-  <h6>🖥️ Tech Stack 🖥️</h6>
+  <h5>🖥️ Tech Stack 🖥️</h5>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahk03&layout=compact&theme=buefy"/>
-  <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=chahk03&theme=buefy&show_icons=true"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahk03&layout=compact&theme=buefy"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hoyang2"/>
 
 </div>
 
@@ -28,4 +29,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
